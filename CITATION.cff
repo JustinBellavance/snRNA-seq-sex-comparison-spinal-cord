@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "These scripts are part of the publication cited below."
+authors:
+- family-names: Bellavance, David, Hildebrand
+  given-names: Justin, Laurence, Michael
+orcid: https://orcid.org/0009-0006-8828-4942
+title: An Open-Source Tool for Investigation of Differential RNA Expression Between Spinal Cord Cells of Male and Female Mice
+version: v1.0.0
+date-released: 2024-12-01
